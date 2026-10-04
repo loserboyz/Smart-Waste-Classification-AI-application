@@ -1,0 +1,5 @@
+{
+    "msp_accept_threshold": 0.4271588265895844,
+    "entropy_reject_threshold": 0.7859503626823425,
+    "energy_reject_threshold": -2.2027787923812867
+}

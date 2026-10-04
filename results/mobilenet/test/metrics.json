@@ -1,0 +1,11 @@
+{
+    "model": "MobileNetV3-Small",
+    "test_images": 379,
+    "accuracy": 0.8601583113456465,
+    "macro_precision": 0.8281903722869449,
+    "macro_recall": 0.8165911331089971,
+    "macro_f1": 0.8211747741169909,
+    "weighted_f1": 0.8589114524453282,
+    "model_size_mb": 5.939984321594238,
+    "avg_inference_ms_per_image": 12.255803166488112
+}

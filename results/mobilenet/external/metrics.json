@@ -1,0 +1,11 @@
+{
+    "model": "MobileNetV3-Small",
+    "dataset": "external_internet",
+    "images": 120,
+    "accuracy": 0.325,
+    "macro_precision": 0.4094904793274359,
+    "macro_recall": 0.325,
+    "macro_f1": 0.3353925485339589,
+    "weighted_f1": 0.33539254853395895,
+    "avg_inference_ms_per_image": 11.89747166596741
+}

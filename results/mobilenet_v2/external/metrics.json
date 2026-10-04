@@ -1,0 +1,17 @@
+{
+    "model": "MobileNetV3-Small-V2",
+    "dataset": "external_diagnostic",
+    "images": 120,
+    "accuracy": 0.4166666666666667,
+    "macro_precision": 0.49362460431327,
+    "macro_recall": 0.4166666666666667,
+    "macro_f1": 0.4391270232933567,
+    "weighted_f1": 0.43912702329335673,
+    "temperature": 0.8365214467048645,
+    "ece_before": 0.18736620247364044,
+    "ece_after": 0.23864509165287018,
+    "raw_correct_mean_confidence": 0.6292287707328796,
+    "raw_wrong_mean_confidence": 0.5515115261077881,
+    "calibrated_correct_mean_confidence": 0.6806305050849915,
+    "calibrated_wrong_mean_confidence": 0.6025761961936951
+}
